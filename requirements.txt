@@ -1,0 +1,8 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+requests==2.31.0
+deepface==0.0.75
+tensorflow==2.16.2
+pandas==2.0.3
+opencv-python==4.7.0.72
+Pillow==9.5.0
